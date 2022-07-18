@@ -1,0 +1,3 @@
+﻿  server.cpp
+E:\SFML server\SFML server\server.cpp(87,28): warning C4244: 'initializing': conversion from 'sf::Uint64' to 'size_t', possible loss of data
+  SFML server.vcxproj -> E:\SFML server\Debug\SFML server.exe

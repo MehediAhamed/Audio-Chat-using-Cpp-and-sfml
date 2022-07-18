@@ -1,0 +1,4 @@
+﻿  client.cpp
+E:\SFML client\SFML client\client.cpp(147,32): warning C4244: 'initializing': conversion from 'sf::Uint64' to 'size_t', possible loss of data
+E:\SFML client\SFML client\client.cpp(60,25): warning C4101: 'ok': unreferenced local variable
+  SFML client.vcxproj -> E:\SFML client\Debug\SFML client.exe
